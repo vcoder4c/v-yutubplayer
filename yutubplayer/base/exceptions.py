@@ -1,0 +1,2 @@
+class NotExistVideo(RuntimeError):
+    pass
