@@ -6,12 +6,8 @@ verify_ssl = true
 [dev-packages]
 
 [packages]
-pygobject = "*"
-mutagen = "*"
-pydbus = "*"
 python-vlc = "*"
 pafy = "*"
-youtube-dl = "*"
 
 [requires]
 python_version = "3.6"
